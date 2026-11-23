@@ -1,6 +1,6 @@
 ### Dimitra Kritsimi
 
-MSc student in **Web Intelligence at **IHU** (Dept. of Information and Electronic Engineering).  
+MSc student in **Web Intelligence** at **IHU** (Dept. of Information and Electronic Engineering).  
 Interested in full-stack web applications, REST APIs, and relational databases.
 
 #### Current Focus
